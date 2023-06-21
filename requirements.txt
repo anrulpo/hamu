@@ -3,7 +3,7 @@ Flask
 Flask_Cors
 gradio>=3.7.0
 numpy==1.23.0
-pyworld==0.2.5
+pyworld==0.2.0
 scipy==1.10.0
 SoundFile==0.12.1
 torch==1.13.1
@@ -24,4 +24,3 @@ edge_tts
 pyyaml
 pynvml
 ffmpeg
-setuptools
