@@ -178,7 +178,7 @@ models_info = [
                        这个模型包含碧蓝档案的141名角色。\n\n
                        Space采用CPU推理，速度极慢，建议下载模型本地GPU推理。\n\n
                        """,
-        "model_path": "./G_228800.pth",
+        "model_path": "./G_387200.pth",
         "config_path": "./config.json",
     }
 ]
