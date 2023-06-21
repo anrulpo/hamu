@@ -1,10 +1,10 @@
 ---
-title: So Vits Svc Models Ba
-emoji: 🏢
-colorFrom: red
-colorTo: pink
+title: So Vits Svc Models Pcr
+emoji: 🦀
+colorFrom: green
+colorTo: indigo
 sdk: gradio
-sdk_version: 3.35.2
+sdk_version: 3.32.0
 app_file: app.py
 pinned: false
 license: apache-2.0
