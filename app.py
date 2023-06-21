@@ -245,7 +245,7 @@ if __name__ == "__main__":
     categories = ["Blue Archive"]
     others = {
         "PCR vits-fast-fineturning": "https://huggingface.co/spaces/FrankZxShen/vits-fast-finetuning-pcr",
-        "Blue Archive vits-fast-fineturning": "https://huggingface.co/spaces/FrankZxShen/vits-fast-finetuning-ba",
+        "Blue Archive vits-fast-fineturning": "https://huggingface.co/spaces/FrankZxShen/vits-fast-fineturning-models-ba",
     }
     for info in models_info:
         config_path = info['config_path']
