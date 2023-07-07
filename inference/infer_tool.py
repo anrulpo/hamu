@@ -127,8 +127,8 @@ class Svc(object):
         self.only_diffusion = only_diffusion
         self.shallow_diffusion = shallow_diffusion
         if device is None:
-            # self.dev = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-            self.dev = torch.device("cpu")
+            self.dev = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+            # self.dev = torch.device("cpu")
         else:
             self.dev = torch.device(device)
         self.net_g_ms = None
