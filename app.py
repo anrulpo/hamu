@@ -27,7 +27,6 @@ from inference.infer_tool import Svc
 logging.getLogger('numba').setLevel(logging.WARNING)
 chunks_dict = infer_tool.read_temp("inference/chunks_temp.json")
 
-
 logging.getLogger('numba').setLevel(logging.WARNING)
 logging.getLogger('markdown_it').setLevel(logging.WARNING)
 logging.getLogger('urllib3').setLevel(logging.WARNING)
