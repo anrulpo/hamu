@@ -16,7 +16,7 @@ onnx
 onnxsim
 onnxoptimizer
 fairseq==0.12.2
-librosa==0.9.1
+librosa==0.9.2
 tensorboard
 tensorboardX
 transformers
